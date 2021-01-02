@@ -2,5 +2,6 @@
 "admin_list":"admin",
 "mod_list":"mod",
 "dev_list":"developer",
-"banned_groups":"bannedGroups"
+"banned_groups":"bannedGroups",
+"OutputFilter":"OutputFilter"
 }
