@@ -1,7 +1,9 @@
 {
-"admin_list":"admin",
-"mod_list":"mod",
-"dev_list":"developer",
-"banned_groups":"bannedGroups",
-"OutputFilter":"OutputFilter"
+	"Administrator_List" : "Administrator",
+	"Moderator_List" : "Moderator",
+	"Developer_List" : "Developer",
+	"Lead_Developer_List" : "Lead_Developer",
+	"Intern_Developer_List" : "Intern_Developer",
+	"Banned_Groups" : "BannedGroups",
+	"Output_Filter" : "OutputFilter"
 }
